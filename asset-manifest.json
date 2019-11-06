@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/flightapp/static/css/main.cfda8877.chunk.css",
+    "main.js": "/flightapp/static/js/main.7dbee2aa.chunk.js",
+    "main.js.map": "/flightapp/static/js/main.7dbee2aa.chunk.js.map",
+    "runtime-main.js": "/flightapp/static/js/runtime-main.f4587f81.js",
+    "runtime-main.js.map": "/flightapp/static/js/runtime-main.f4587f81.js.map",
+    "static/js/2.677bf8ce.chunk.js": "/flightapp/static/js/2.677bf8ce.chunk.js",
+    "static/js/2.677bf8ce.chunk.js.map": "/flightapp/static/js/2.677bf8ce.chunk.js.map",
+    "index.html": "/flightapp/index.html",
+    "precache-manifest.4c24c14c868a754b81f24a69fb4febe2.js": "/flightapp/precache-manifest.4c24c14c868a754b81f24a69fb4febe2.js",
+    "service-worker.js": "/flightapp/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/flightapp/static/css/main.cfda8877.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4587f81.js",
+    "static/js/2.677bf8ce.chunk.js",
+    "static/css/main.cfda8877.chunk.css",
+    "static/js/main.7dbee2aa.chunk.js"
+  ]
+}
